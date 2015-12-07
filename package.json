@@ -1,0 +1,23 @@
+{
+  "name": "express-up-running",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.0.7",
+    "body-parser": "^1.14.1",
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "handlebars": "^4.0.5",
+    "kerberos": "0.0.17",
+    "lodash": "^3.10.1",
+    "mongodb": "^2.1.0"
+  }
+}
